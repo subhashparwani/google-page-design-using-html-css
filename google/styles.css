@@ -1,0 +1,25 @@
+.main {
+  margin-top: 50px;
+}
+.main img {
+  width: 240px;
+  display: block;
+  margin: 0 auto;
+}
+.main input {
+  display: block;
+  margin: 0 auto;
+  width: 350px;
+  height: 25px;
+  border-radius: 5px;
+}
+.btn-wrapper {
+  display: flex;
+  justify-content: center;
+}
+.btn-wrapper input {
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 5px 10px;
+  background-color: lightgray;
+}
